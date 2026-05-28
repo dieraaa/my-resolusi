@@ -6,4 +6,5 @@ RENCANA STREAM MY
 - Streaming Sniper Elite 5
   * pakai controller
 - Streaming GTA 5
+ * pakai controller
 - Streaming Game horor
