@@ -3,4 +3,6 @@ RENCANA STREAM MY
   * 1 jam tiap live
   * pakai controller
 - Streaming Sniper Elite 5
+  * gausah pakai controller
 - Streaming GTA 5
+  * gausah pakai controller
